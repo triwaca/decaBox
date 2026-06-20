@@ -1,5 +1,5 @@
-# printedOrganizer3D
-My solution for small 3D printed drawers and organizers using less filament.
+# decaBox 3D Organizer
+My solution for small 3D printed drawers and organizers using less filament. Each box has 10 x 10 x 10cm! Easy to expand!
 
 A complete set with two drawers can be printed with 130 grams! Both drawers and body must use the Vase option on your 3D printer (with line width 0.8). My first inspuration was the Fast-Printing Modular Drawer System (Vase Mode) from @LR3DUK (https://www.printables.com/model/139570-fast-printing-modular-drawer-system-vase-mode), but I made an entirelly new design to improve size, resistance, and beauty.
 
