@@ -20,9 +20,18 @@ The same body can use 2 drawers horizontally or vertically, or a single big draw
 
 ![Drawer with bags of components](images/matchComponents.jpg)
 
-- You can remove the drawer and use the handle to pour components, like screws.
+- You can remove the drawer and use to pour components, like screws.
 
 ![Easy pouring components from drawer](images/easyPouring.jpg)
+
+- Faceplate uses small conectors, who can be use to assemble new boxes side by side.
+
+![connectors holding the faceplate](images/3dOrganizerConnector.jpg)
+
+- Different sizes of drawers can hold all your needs!
+
+![decaBox with big drawer](images/3dOrganizerDrawer.jpg) ![decaBox with two small drawers](images/flatDrawer.jpg)
+
 
 - Vase mode allows fast printing, and save lots of filament! Each drawer uses only 22 grams!
 
