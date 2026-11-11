@@ -6,7 +6,7 @@ My solution for small 3D printed drawers and organizers using less filament. My 
 
 ## decaBox is fast!
 
-With most parts using the *vase mode* print (with a 0.6 nozzle set with line width 0.8), where each structure is made with a single pass, you have your drawers faster than any project. Robustness is guaranteed by the creases in the pieces.
+With most parts using the *vase mode* print (with a 0.4 nozzle set with line width 0.8), where each structure is made with a single pass, you have your drawers faster than any project. Robustness is guaranteed by the creases in the pieces.
 
 ## decaBox saves money!
 
